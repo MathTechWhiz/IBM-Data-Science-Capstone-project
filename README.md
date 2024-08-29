@@ -76,5 +76,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This `README.md` provides a thorough overview of your project and guides users through understanding, setting up, and using your analysis.
